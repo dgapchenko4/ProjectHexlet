@@ -1,0 +1,164 @@
+body {
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/34/59/science-seamless-pattern-in-flat-design-style-vector-2033459.jpg");
+}
+
+.main-home-bur{
+    text-align: center;
+    width: auto;
+    height: 7em;
+    border-radius: 15px;
+    background-color:  rgb(216, 203, 161);
+    margin-bottom: 40px;
+}
+
+.main-home-bur h1 {
+    padding-top: 40px;
+}
+
+.main-card-lesson {
+    margin: 0;
+    padding: 1000;
+    display: flex;
+    padding-left: 100px; 
+    padding-right: 600px; 
+    justify-content: space-evenly;
+    padding-left: 50px;
+
+}
+
+.main-card-lesson div{
+    position: relative;
+    margin-left: 1000;
+    margin-right: 0;
+    color: white;
+    display: inline-block;
+    border: 3px solid black;
+    width: 5em;
+    height: 30em;
+}
+
+.main-card-lesson h3{
+    margin-top: 10em;
+    transform: rotate(-90deg);
+    font-size: 24px;
+}
+
+.card-lesson :hover{
+    background-color: green;
+    width: 100px;
+    border-radius: 18px 0px 0px 18px;
+}
+
+.card-math {
+    margin-left: 0px;
+    background-color: red;
+    border-radius: 18px 0px 0px 18px;
+    width: 100px;
+    height: 500px;
+}
+.card-lesson :hover {
+    background-color: green;
+    width: 100px;
+}
+
+.card-architecture {
+    background-color: orange;
+    width: 100px;
+    height: 500px;
+}
+
+.card-physics {
+    background-color: rgba(168, 46, 178, 1);
+    height: 500px;
+}
+
+.card-informatics {
+    background-color: rgba(21, 1, 246, 1);
+    width: 100px;
+    height: 500px;
+}
+
+.card-biology {
+    background-color: rgba(20, 128, 2, 1);
+    width: 100px;
+    height: 500px;
+}
+
+.card-geography {
+    background-color: rgba(9, 128, 144, 1);
+    width: 100px;
+    height: 500px;
+}
+
+.card-medicine {
+    background-color: rgba(216, 200, 53, 1);
+    width: 100px;
+    height: 500px;
+}
+
+.card-chemistry {
+    background-color: rgba(4, 191, 68, 1);
+    width: 100px;
+    height: 500px;
+}
+
+.card-social {
+    background-color: rgba(89, 14, 164, 1);
+    width: 100px;
+    height: 500px;
+}
+.div {
+    width: 287px;
+    height: 101px;  
+}
+.Rectangle-35 {
+    width: 293px;
+    height: 101px;
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+  }
+  
+.Rectangle-36 {
+    width: 494px;
+    height: 102px;
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+.Rectangle-34 {
+    width: 482px;
+    height: 102px;
+    margin: 3px 0 145px 1px;
+    padding: 25px 23px 27px 36px;
+    background-color: rgba(58, 55, 55, 0.3);
+    font-size: 39px;
+}
+.rules-page {
+    width: 482px; height: 102px; margin: 3px 0 147px 1px; padding: 20px 25px 21px 27px; background-color: rgba(58, 55, 55, 0.3);
+    font-size: 39px;
+}
+.main-buttons {
+    display: flex; 
+    margin-bottom: 0px;
+}
+.Rectangle-30 {
+    width: 418px;
+    height: 102px;
+    margin: 2px 0 146px 1px;
+    padding: 0 86px 0 0;  
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+.card-lesson {
+    border-radius: 50px;
+    width: 10px;
+}
+.card-foreign {
+    background-color: red;
+    width: 100px;
+    height: 500px;
+}
+.card-literature {
+    background-color: orange;
+    width: 100px;
+    height: 500px;
+}
