@@ -5,18 +5,18 @@ h1 {
 }
 
 p {
-    font-size: 39px;
+    font-size: 28px;
     font-family: sans-serif;
 }
 
 ul {
     font-family: sans-serif;
     margin-left: -40px;
-    font-size: 39px;
+    font-size: 28px;
 }
 
 li {
-    font-size: 39px;
+    font-size: 28px;
     font-family: sans-serif;
 }
 
@@ -114,3 +114,37 @@ img {
   margin-left: 800px;
   margin-top: -250px;
 }
+.Rectangle-35 {
+    width: 293px;
+    height: 60px;
+    font-size: 28px;
+    background-color: rgba(58, 55, 55, 0.3);
+  }
+  
+.Rectangle-36 {
+    width: 494px;
+    height: 60px;
+    font-size: 28px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+.Rectangle-34 {
+    width: 482px;
+    height: 60px;
+    background-color: rgba(58, 55, 55, 0.3);
+    font-size: 28px;
+}
+.rules-page {
+    width: 482px; 
+    height: 60px;
+    background-color: rgba(58, 55, 55, 0.3);
+    font-size: 28px;
+}
+.main-buttons {
+    display: flex; 
+    margin-bottom: 0px;
+}
+.Rectangle-30 {
+    width: 418px;
+    height: 60px;
+    font-size: 28px;
+    background-color: rgba(58, 55, 55, 0.3);
