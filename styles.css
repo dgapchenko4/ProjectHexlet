@@ -24,7 +24,9 @@ body {
     margin-bottom: 10px;
 }
 .main-home-bur h2 {
-    padding-top: 40px;
+    margin-top: 40px
+    padding-top: 10px;
+    
 }
 .main-card-lesson {
     margin: 0;
