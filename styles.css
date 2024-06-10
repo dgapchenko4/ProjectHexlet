@@ -19,8 +19,8 @@ body {
     margin: 0;
     padding: 1000;
     display: flex;
-    padding-left: 300px; 
-    padding-right: 100px; 
+    padding-left: 200px; 
+    padding-right: 400px; 
     justify-content: space-evenly;
     text-align: center;
     position: relative;
