@@ -14,7 +14,14 @@ body {
 .main-home-bur h1 {
     padding-top: 40px;
 }
-
+.main-home-bur2{
+    text-align: center;
+    width: auto;
+    height: 7em;
+    border-radius: 15px;
+    background-color:  rgb(216, 203, 161);
+    margin-bottom: 40px;
+}
 .main-card-lesson {
     margin: 0;
     padding: 500;
