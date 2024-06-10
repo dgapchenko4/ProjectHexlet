@@ -186,7 +186,7 @@ body {
 .contains h2 {
   width: 454px;
   height: 101px;
-  margin: 15px 0 311px 459px;
+  margin: 29px 0 311px 459px;
   padding: 71px 157px 29px 0;
   font-family: sans-serif;
   font-size: 36px;
@@ -202,7 +202,7 @@ body {
 .contains h3 {
   width: 345px;
   height: 335px;
-  margin: 50px 104px 5px 464px;
+  margin: 101px 104px 5px 464px;
   font-family: sans-serif;
   font-size: 36px;
   font-weight: normal;
@@ -213,13 +213,13 @@ body {
   text-align: left;
   color: #2e2b2b;
   margin-left: 1400px;
-  margin-top: -600px
+  margin-top: -300px
 }
 .Rectangle-19 {
   width: 1158px;
-  height: 200px;
-  margin: 0 514px 10px 0;
-  padding: 5px 5px 5px 5px;
+  height: 411px;
+  margin: 0 514px 30px 0;
+  padding: 41px 69px 28px 36px;
   border-radius: 20px;
   background-color: #2e2b2b;
   margin-top: -550px;
@@ -227,12 +227,12 @@ body {
 .Rectangle-19 h1 {
   color: rgb(216, 203, 161);
   font-style: normal;
-  font-size: 36px;
+  font-size: 64px;
 }
 .Rectangle-19 .cooperation {
   width: 314px;
   height: 54px;
-  margin: 15px 15px 15px 0;
+  margin: 15px 346px 15px 0;
   font-family: sans-serif;
   font-size: 36px;
   font-weight: normal;
@@ -260,5 +260,5 @@ body {
 .Rectangle-19 .networks {
  color: rgb(216, 203, 161);
   margin-left: 800px;
-  margin-top: 15px;
+  margin-top: -250px;
 }
