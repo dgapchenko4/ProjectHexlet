@@ -19,8 +19,8 @@ body {
     margin: 0;
     padding: 1000;
     display: flex;
-    padding-left: 100px; 
-    padding-right: 600px; 
+    padding-left: 300px; 
+    padding-right: 200px; 
     justify-content: space-evenly;
     padding-left: 50px;
     text-align: center;
@@ -37,8 +37,7 @@ body {
     width: 5em;
     height: 30em;
     text-align: center;
-    position: relative;
-}
+   }
 
 .main-card-lesson h3{
     margin-top: 10em;
