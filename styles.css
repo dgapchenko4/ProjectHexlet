@@ -29,7 +29,7 @@ body {
 
 .main-card-lesson div{
     position: relative;
-    margin-left: 1000;
+    margin-left: 0;
     margin-right: 0;
     color: white;
     display: inline-block;
