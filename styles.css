@@ -114,25 +114,27 @@ body {
 .Rectangle-35 {
     width: 293px;
     height: 102px;
-    font-size: 39px;
+    font-size: 28px;
     background-color: rgba(58, 55, 55, 0.3);
   }
   
 .Rectangle-36 {
     width: 494px;
     height: 102px;
-    font-size: 39px;
+    font-size: 28px;
     background-color: rgba(58, 55, 55, 0.3);
 }
 .Rectangle-34 {
     width: 482px;
     height: 102px;
     background-color: rgba(58, 55, 55, 0.3);
-    font-size: 39px;
+    font-size: 28px;
 }
 .rules-page {
-    width: 482px; height: 102px; margin: 3px 0 147px 1px; padding: 20px 25px 21px 27px; background-color: rgba(58, 55, 55, 0.3);
-    font-size: 39px;
+    width: 482px;
+    height: 102px;
+    background-color: rgba(58, 55, 55, 0.3);
+    font-size: 28px;
 }
 .main-buttons {
     display: flex; 
@@ -141,9 +143,7 @@ body {
 .Rectangle-30 {
     width: 418px;
     height: 102px;
-    margin: 2px 0 146px 1px;
-    padding: 0 86px 0 0;  
-    font-size: 39px;
+    font-size: 28px;
     background-color: rgba(58, 55, 55, 0.3);
 }
 .card-lesson {
