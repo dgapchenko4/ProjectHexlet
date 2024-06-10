@@ -185,7 +185,7 @@ body {
   line-height: normal;
   letter-spacing: normal;
   margin-left: 1400px;
-  color: #fff;
+  color: #2e2b2b;
 }
 
 .contains h3 {
@@ -200,7 +200,7 @@ body {
   line-height: normal;
   letter-spacing: normal;
   text-align: left;
-  color: #fff;
+  color: #2e2b2b;
   margin-left: 1400px;
   margin-top: -300px
 }
@@ -214,7 +214,7 @@ body {
   margin-top: -550px;
 }
 .Rectangle-19 h1 {
-  color: white;
+  color: rgb(216, 203, 161);
   font-style: normal;
   font-size: 64px;
 }
@@ -230,7 +230,7 @@ body {
   line-height: normal;
   letter-spacing: normal;
   text-align: left;
-  color: #fff;
+  color: rgb(216, 203, 161);
 }
 .Rectangle-19 .news {
   width: 314px;
@@ -244,10 +244,10 @@ body {
   line-height: normal;
   letter-spacing: normal;
   text-align: left;
-  color: #fff
+  color: rgb(216, 203, 161)
 }
 .Rectangle-19 .networks {
- color: white;
+ color: rgb(216, 203, 161);
   margin-left: 800px;
   margin-top: -250px;
 }
