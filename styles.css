@@ -37,6 +37,7 @@ body {
     width: 5em;
     height: 30em;
     text-align: center;
+    position: relative;
 }
 
 .main-card-lesson h3{
