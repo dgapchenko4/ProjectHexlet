@@ -1,0 +1,65 @@
+.examination {
+    width: 1710px;
+    height: 870px;
+    margin: 29px 72px 0 0;
+    padding: 2px 16px 60px 31px;
+    border-radius: 20px;
+    background-color: #d9d9d9;
+  }
+  .examination .description {
+    width: 800px;
+    height: 0px;
+    background: #d9d9d9;
+    margin-left: -20px;
+  }
+  .examination .description p {
+    width: 803px;
+    height: 624px;
+    margin: 33px 21px 40px 0;
+    font-family: sans-serif;
+    font-size: 38px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .examination .black {
+    width: 10px;
+    height: 935px;
+    margin: 0 49px 0 21px;
+    transform: rotate(0deg);
+    background-color: #000;
+    margin-left: 850px;
+    margin-top: -700px;
+  }
+  .examination .materials {
+    width: 803px;
+    height: 932px;
+    background: #d9d9d9;
+    margin-left: 930px;
+    margin-top: -984px;
+  }
+  .examination .materials h1 {
+    width: 353px;
+    height: 58px;
+    margin: 33px 198px 170px 278px;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-top: 50px;
+    margin-left: 210px;
+    color: #000;
+  }
+  .examination .materials img {
+    margin-left: 80px
+  }
+  .examination  .img {
+    transform: translateX(-150px)
+  }
