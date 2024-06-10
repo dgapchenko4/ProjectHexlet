@@ -1,12 +1,8 @@
 body {
    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/34/59/science-seamless-pattern-in-flat-design-style-vector-2033459.jpg");
    width: 100%;
-   height: 100%;
-   overflow: hidden;
    margin: 0;
 }
-}
-
 .main-home-bur{
     text-align: center;
     width: auto;
