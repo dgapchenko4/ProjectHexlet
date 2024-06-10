@@ -15,13 +15,12 @@ body {
     padding-top: 40px;
 }
 .main-home-bur2{
-    text-align: center;
-    padding-top: 40px
+   text-align: center;
     width: auto;
     height: 5em;
     border-radius: 15px;
-    background-color:  rgb(255, 239, 185);
-    margin-bottom: 10px;
+    background-color:  rgb(216, 203, 161);
+    margin-bottom: 20px;
 }
 .main-home-bur2 h2 {
     margin-top: 40px
