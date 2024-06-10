@@ -22,6 +22,9 @@ body {
     background-color:  rgb(216, 203, 161);
     margin-bottom: 40px;
 }
+.main-home-bur h2 {
+    padding-top: 40px;
+}
 .main-card-lesson {
     margin: 0;
     padding: 500;
