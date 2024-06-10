@@ -179,15 +179,14 @@ body {
     width: 2282px;
     height: 300px;
     margin: 77px 0 0;
-    padding: 10px 77px 0 79px;
     background-color: rgb(216, 203, 161);
 }
 
 .contains h2 {
   width: 454px;
   height: 101px;
-  margin: 29px 0 311px 459px;
-  padding: 71px 157px 29px 0;
+  margin: 10px 0 311px 459px;
+  padding: 10px 157px 29px 0;
   font-family: sans-serif;
   font-size: 28px;
   font-weight: normal;
@@ -213,13 +212,10 @@ body {
   text-align: left;
   color: #2e2b2b;
   margin-left: 1400px;
-  margin-top: -300px
 }
 .Rectangle-19 {
   width: 1158px;
   height: 200px;
-  margin: 0 514px 5px 0;
-  padding: 41px 69px 28px 36px;
   border-radius: 20px;
   background-color: #2e2b2b;
  }
@@ -231,7 +227,6 @@ body {
 .Rectangle-19 .cooperation {
   width: 314px;
   height: 54px;
-  margin: 15px 346px 15px 0;
   font-family: sans-serif;
   font-size: 28px;
   font-weight: normal;
@@ -245,7 +240,6 @@ body {
 .Rectangle-19 .news {
   width: 314px;
   height: 54px;
-  margin: 15px 346px 0 0;
   font-family: sans-serif;
   font-size: 28px;
   font-weight: normal;
@@ -258,6 +252,4 @@ body {
 }
 .Rectangle-19 .networks {
  color: rgb(216, 203, 161);
-  margin-left: 800px;
-  margin-top: -250px;
 }
