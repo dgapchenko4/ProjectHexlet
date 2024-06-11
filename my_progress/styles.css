@@ -1,0 +1,484 @@
+.test-page {
+    width: 2282px;
+    height: 2800px;
+    background-color: #e0d0b7;
+}
+
+.Rectangle-35 {
+    width: 330px;
+    height: 65px;
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+
+.Rectangle-36 {
+    width: 510px;
+    height: 65px;
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+
+.Rectangle-34 {
+    width: 502px;
+    height: 65px;
+    margin: 3px 0 145px 1px;
+    padding: 25px 23px 27px 36px;
+    background-color: rgba(58, 55, 55, 0.3);
+    margin-top: 0px;
+    font-size: 39px;
+}
+
+.rules-page {
+    width: 482px; height: 65px; margin: 3px 0 147px 1px; padding: 20px 25px 21px 27px; background-color: rgba(58, 55, 55, 0.3);
+    font-size: 39px;
+    margin-top: 0px;
+}
+
+.Rectangle-30 {
+    width: 418px;
+    height: 65px;
+    margin: 2px 0 146px 1px;
+    padding: 0 86px 0 0;  
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+    margin-top: 0px;
+}
+
+.Rectangle-34 h1 {
+    font-size: 39px;
+    font-weight: normal;
+    margin-top: -15px;
+  }
+  .rules-page h1 {
+    font-size: 39px;
+    font-weight: normal;
+    margin-top: -15px;
+  }
+  .main-buttons {
+    display: flex;
+}
+
+.test-page .Rectangle-46 {
+    width: 2154px;
+    height: 800px;
+    margin: 242px 40px 188px 88px;
+    padding: 150px 0 2px;
+    border-radius: 30px;
+    background-color: rgba(58, 55, 55, 0.82);
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-48 {
+    width: 57px;
+    height: 500px;
+    margin: 608px 83px 249px 77px;
+    background-color: #d9d9d9;
+    margin-top: 200px;
+    margin-left: 80px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-49 {
+    width: 57px;
+    height: 600px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -200px;
+    margin-left: 210px;
+    margin-top: -850px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-50 {
+    width: 57px;
+    height: 800px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -200px;
+    margin-left: 200px;
+    margin-top: -150px;
+    border-radius: 15px;
+    margin-left: 330px;
+    margin-top: -1050px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-51 {
+    width: 57px;
+    height: 800px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    margin-left: 450px;
+    margin-top: -1050px
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-52 {
+    width: 57px;
+    height: 800px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-left: 550px;
+    margin-top: -1050px;
+    border-radius: 15px;
+} 
+
+.test-page .Rectangle-46 .progress .Rectangle-53 {
+    width: 57px;
+    height: 600px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-left: 650px;
+    margin-top: -850px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-54 {
+    width: 57px;
+    height: 600px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -1500px;
+    margin-left: 750px;
+    margin-top: -850px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-55 {
+    width: 57px;
+    height: 650px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -900px;
+    margin-left: 750px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-56 {
+    width: 57px;
+    height: 690px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -945px;
+    margin-left: 900px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-57 {
+    width: 57px;
+    height: 800px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -1050px;
+    margin-left: 1100px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-58 {
+    width: 57px;
+    height: 800px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -1050px;
+    margin-left: 1290px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-59 {
+    width: 57px;
+    height: 50px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -300px;
+    margin-left: 1460px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-60 {
+    width: 57px;
+    height: 800px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -1050px;
+    margin-left: 1620px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-61 {
+    width: 57px;
+    height: 100px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -350px;
+    margin-left: 1790px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-62 {
+    width: 57px;
+    height: 700px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -950px;
+    margin-left: 1890px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .Rectangle-47 {
+    width: 57px;
+    height: 700px;
+    margin: 1091px 83px 249px;
+    background-color: #d9d9d9;
+    margin-top: -950px;
+    margin-left: 1990px;
+    border-radius: 15px;
+}
+
+.test-page .Rectangle-46 .progress .-- {
+    width: 2154px;
+    height: 251px;
+    margin: 1144px 0 0;
+    padding: 0 25px 141px 0;
+    background-color: #3a3737;
+    margin-top: -250px;
+}
+
+.test-page .Rectangle-46 .progress .-- > h1 {
+   font-family: sans-serif;
+   padding-top: 30px;
+   margin-left: 65px;
+   color: #fff;
+   font-size: 19px;
+}
+
+.test-page .Rectangle-46 .progress .p > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: #fff;
+    font-size: 19px;
+}
+
+.test-page .Rectangle-46 .progress .o > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: #fff;
+    font-size: 19px;
+    margin-left: 335px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .l > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: #fff;
+    font-size: 19px;
+    margin-left: 455px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .pp > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 560px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .bio > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 655px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .geogr > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 750px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .hist > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 910px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .ch > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1100px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .social > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1280px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .sp > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1450px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .eng > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1615px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .chi > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1785px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .fr > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1875px;
+    margin-top: -35px;
+}
+
+.test-page .Rectangle-46 .progress .lit > h1 {
+    font-family: sans-serif;
+    margin-top: -363px;
+    margin-left: 190px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    margin-left: 1985px;
+    margin-top: -35px;
+}
+.Rectangle-20 {
+    position: absolute;
+    margin-left: 35px;
+    margin-top: -1000px;
+    padding-bottom: 38px;
+    width: 2282px;
+    height: 569px;
+    background-color: #15095c;
+}
+
+.Rectangle-20 .Rectangle-19 {
+    width: 1158px;
+    height: 411px;
+    margin: 0 514px 30px 0;
+    padding: 41px 69px 28px 36px;
+    border-radius: 20px;
+    background-color: #2e2b2b;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.Rectangle-20 .Rectangle-19 h1 {
+    width: 299px;
+    height: 101px;
+    margin: 0 361px 15px 0;
+    font-family: sans-serif;
+    font-size: 64px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.Rectangle-20 .Rectangle-19 h2 {
+    width: 299px;
+    height: 101px;
+    margin: 0 361px 15px 0;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.Rectangle-20 .Rectangle-19 .social_networks {
+    margin-left: 800px;
+    margin-top: -520px;
+}
+
+.Rectangle-20 h1 {
+    width: 454px;
+    height: 101px;
+    margin: 29px 0 311px 459px;
+    padding: 71px 157px 29px 0;
+    font-family: sans-serif;
+    font-size: 64px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-left: 1600px;
+    margin-top: -500px;
+    color: #fff;
+}
+
+.Rectangle-20 h2 {
+    width: 454px;
+    height: 101px;
+    margin: 29px 0 311px 459px;
+    padding: 71px 157px 29px 0;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-left: 1600px;
+    margin-top: -400px;
+    color: #fff;
+}
+
+.Rectangle-20 .Rectangle-19 .news {
+    margin-top: -150px;
+}
+
