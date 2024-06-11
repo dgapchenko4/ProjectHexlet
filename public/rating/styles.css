@@ -1,0 +1,428 @@
+.Rectangle-35 {
+    width: 330px;
+    height: 65px;
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+
+.Rectangle-36 {
+    width: 510px;
+    height: 65px;
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+}
+
+.Rectangle-34 {
+    width: 502px;
+    height: 65px;
+    margin: 3px 0 145px 1px;
+    padding: 25px 23px 27px 36px;
+    background-color: rgba(58, 55, 55, 0.3);
+    margin-top: 0px;
+    font-size: 39px;
+}
+
+.Rectangle-34 h1 {
+  font-size: 39px;
+  font-weight: normal;
+  margin-top: -15px;
+}
+
+.rules-page {
+    width: 482px; height: 65px; margin: 3px 0 147px 1px; padding: 20px 25px 21px 27px; background-color: rgba(58, 55, 55, 0.3);
+    font-size: 39px;
+    margin-top: 0px;
+}
+
+.rules-page h1 {
+  font-size: 39px;
+  font-weight: normal;
+  margin-top: -15px;
+}
+
+.Rectangle-30 {
+    width: 418px;
+    height: 65px;
+    margin: 2px 0 146px 1px;
+    padding: 0 86px 0 0;  
+    font-size: 39px;
+    background-color: rgba(58, 55, 55, 0.3);
+    margin-top: 0px;
+}
+
+.main-buttons {
+    display: flex;
+}
+.div {
+  width: 2282px;
+  height: 3000px;
+  flex-grow: 0;
+  background-color: #e0d0b7;
+  margin-top: -300px;
+}
+
+.div .Rectangle-36 {
+    position: absolute;
+    width: 2000px;
+    height: 1733px;
+    margin: 193px 25px 61px 21px;
+    padding: 76px 17px 75px 79px;
+    border-radius: 30px;
+    background-color: rgba(58, 55, 55, 0.82);
+    margin-top: 288px;
+}
+
+.div .Rectangle-36 .r {
+    position: absolute;
+    width: 600px;
+    height: 142px;
+    margin: 0 1553px 0 2px;
+    background-color: #ff5c00;
+    margin-right: 20px;
+    word-wrap: break-word;
+    margin-left: -50px;
+  }
+
+.div .Rectangle-36 .r .name {
+  margin-top: 95px;
+}
+
+.div .Rectangle-36 .r h1 {
+    position: absolute;
+    width: 587px;
+    height: 137px;
+    font-family: FiraSans;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+    padding-right: 10px;
+    margin-top: 0px;
+    word-wrap: break-word;
+}
+
+.div .Rectangle-36 .--- {
+    width: 740px;
+    height: 144px;
+    margin: 2px 1398px 0 2px;
+    background-color: #e55200;
+    margin-top: 140px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .--- h1 {
+    width: 740px;
+    height: 132px;
+    margin: 6px 1400px 6px 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-65 {
+    width: 895px;
+    height: 145px;
+    margin: 6px 1243px 0 2px;
+    background-color: #d74d00;
+    margin-top: -10px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-65 h1 {
+    width: 904px;
+    height: 125px;
+    margin: 19px 1236px 1px 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+    margin-top: -10px;
+  }
+
+  .div .Rectangle-36 .Rectangle-66 {
+    width: 1051px;
+    height: 145px;
+    margin: 1px 1087px 0 2px;
+    background-color: #c44700;
+    margin-top: -15px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-66 h1 {
+    width: 1048px;
+    height: 132px;
+    margin: 13px 1092px 0 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-67 {
+    width: 1206px;
+    height: 145px;
+    margin: 145px 932px 6px 2px;
+    background-color: #b44100;
+    margin-top: -10px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-67 h1 {
+    width: 1203px;
+    height: 132px;
+    margin: 7px 937px 0 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-68 {
+    width: 1361px;
+    height: 146px;
+    margin: 139px 777px 0 2px;
+    background-color: #a63c00;
+    margin-top: -10px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-68 h1 {
+    width: 1358px;
+    height: 132px;
+    margin: 6px 782px 2px 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-69 {
+    width: 1517px;
+    height: 144px;
+    margin: 2px 621px 0 2px;
+    background-color: #993700;
+    margin-top: -12px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-69 h1 {
+    width: 1514px;
+    height: 132px;
+    margin: 12px 626px 0 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-70 {
+    width: 1672px;
+    height: 145px;
+    margin: 144px 466px 0 2px;
+    background-color: #8a3200;
+    margin-top: -10px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-70 h1 {
+    width: 1669px;
+    height: 132px;
+    margin: 10px 471px 3px 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-71 {
+    width: 1827px;
+    height: 145px;
+    margin: 3px 311px 0 2px;
+    background-color: #792c00;
+    margin-top: -10px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-71 h1 {
+    width: 1827px;
+    height: 132px;
+    margin: 7px 313px 0 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-72 {
+    width: 1983px;
+    height: 144px;
+    margin: 6px 155px 0 2px;
+    background-color: #702800;
+    margin-top: -150px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-72 h1 {
+    width: 1985px;
+    height: 132px;
+    margin: 139px 155px 13px 0;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .Rectangle-36 .Rectangle-73 {
+    width: 2138px;
+    height: 145px;
+    margin: 13px 0 0 2px;
+    background-color: #6c2801;
+    margin-top: -20px;
+    margin-left: -50px;
+  }
+
+  .div .Rectangle-36 .Rectangle-73 h1 {
+    width: 2140px;
+    height: 132px;
+    margin: 18px 0 8px;
+    font-family: FiraSans;
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: extra-condensed;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 30px;
+  }
+
+  .div .contacts {
+    position: absolute;
+    width: 2002px;
+    height: 569px;
+    margin: 61px 0 0;
+    padding: 31px 77px 0 79px;
+    background-color: #15095c;
+    margin-top: 2300px;
+  }
+  .div .contacts .Rectangle-19 {
+    position: absolute;
+    width: 1158px;
+    height: 411px;
+    margin: 0 514px 30px 0;
+    padding: 41px 69px 28px 36px;
+    border-radius: 20px;
+    background-color: #2e2b2b;
+    margin-top: 30px;
+  }
+
+.div .contacts .Rectangle-19 h1 {
+  width: 299px;
+  height: 101px;
+  margin: 0 361px 15px 0;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 64px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.div .contacts .Rectangle-19 .h1 {
+  font-size: 39px;
+}
+
+.div .contacts .Rectangle-19 .news {
+  font-size: 39px;
+}
+
+.div .contacts .Rectangle-19 div {
+  margin-top: 50px;
+}
+
+.div .contacts .Rectangle-19 .news1 {
+  font-size: 64px;
+  margin-left: 800px;
+  margin-top: -360px;
+}
+
+.div .contacts .contacts1 {
+  font-family: sans-serif;
+  margin-left: 1540px;
+  margin-top: 100px;
+  color: #fff;
+  font-size: 64px;
+}
+
+.div .contacts .Dmitry {
+  font-family: sans-serif;
+  margin-left: 1540px;
+  margin-top: 100px;
+  color: #fff;
+  font-size: 39px;
+}
