@@ -1,0 +1,131 @@
+.img1 {
+    position: relative;
+    width: 230px;
+    height: 350px;
+    margin-left: 70px;
+    margin-top: -700px;
+}
+
+.description2 {
+    width: 840px;
+    height: 365px;
+    background-color: #d9d9d9;
+    border-radius: 0px;
+    margin-left: 850px;
+    margin-top: -1039px;
+}
+
+.description2 .math {
+    transform: translateY(80px);
+    margin-left: 80px;
+}
+
+ .description2 h1 {
+    padding-left: 230px;
+    font-size: 66px;
+    margin-top: 30px;
+}
+
+.ege_ {
+    position: relative;
+    transform: translateY(150px);
+    margin-left: 80px;
+    margin-top: -90px;
+    width: 200px;
+    height: 350px; 
+}
+
+.author {
+    margin-left: 400px;
+    margin-top: -210px;
+}
+
+.level {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+.description4 {
+    margin-left: 400px;
+    font-weight: normal;
+    margin-right: 30px;
+    margin-top: -15px;
+}
+
+.profile {
+    margin-top: 170px;
+    margin-left: 80px;
+    width: 200px;
+    height: 350px;        
+}
+
+
+.description5 {
+    margin-left: 400px;
+    margin-top: -410px;
+}
+
+.description6 {
+    margin-left: 400px;
+    font-weight: normal;
+    margin-top: -15px;
+}
+
+.ul {
+    font-size: 24px;
+    margin-left: 390px;
+}
+
+.pp {
+    margin-top: 600px;
+}
+
+.o {
+    margin-top: 50px;
+    margin-left:50px;
+}
+
+.div h1 {
+    margin-top: 54px;
+}
+
+ div div .u {
+    margin-top: -20px;
+}
+
+div div .profile6 {
+  width: 59px;
+  height: 59px;
+  margin-left: 100px;
+  margin-top: -25px;
+}
+
+div div .profile111 {
+    margin-top: -10px;
+}
+
+div div .image1 {
+    margin-left: 250px;
+    margin-top: -20px;
+}
+
+div div .image2 {
+    width: 59px;
+    height: 59px;
+    margin-left: 100px;
+    margin-top: -25px;
+}
+
+.rus {
+    position: relative;
+    margin-left: 450px;
+    font-weight: normal;
+    margin-top: -20px;
+}
+
+.variant {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-weight: normal;
+}
