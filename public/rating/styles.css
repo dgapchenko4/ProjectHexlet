@@ -1,55 +1,38 @@
 .Rectangle-35 {
-    width: 330px;
-    height: 65px;
-    font-size: 39px;
+    width: 293px;
+    height: 60px;
+    font-size: 28px;
+    background-color: rgba(58, 55, 55, 0.3);
+  }
+  
+.Rectangle-31 {
+    width: 450px;
+    height: 60px;
+    font-size: 28px;
     background-color: rgba(58, 55, 55, 0.3);
 }
-
-.Rectangle-36 {
-    width: 510px;
-    height: 65px;
-    font-size: 39px;
-    background-color: rgba(58, 55, 55, 0.3);
-}
-
 .Rectangle-34 {
-    width: 502px;
-    height: 65px;
-    margin: 3px 0 145px 1px;
-    padding: 25px 23px 27px 36px;
+    width: 480px;
+    height: 60px;
     background-color: rgba(58, 55, 55, 0.3);
-    margin-top: 0px;
-    font-size: 39px;
+    font-size: 28px;
 }
-
-.Rectangle-34 h1 {
-  font-size: 39px;
-  font-weight: normal;
-  margin-top: -15px;
-}
-
 .rules-page {
-    width: 482px; height: 65px; margin: 3px 0 147px 1px; padding: 20px 25px 21px 27px; background-color: rgba(58, 55, 55, 0.3);
-    font-size: 39px;
-    margin-top: 0px;
+    width: 490px;
+    height: 60px;
+    background-color: rgba(58, 55, 55, 0.3);
+    font-size: 28px;
 }
-
-.rules-page h1 {
-  font-size: 39px;
-  font-weight: normal;
-  margin-top: -15px;
+.main-buttons {
+    display: flex; 
+    margin-bottom: 0px;
 }
-
 .Rectangle-30 {
     width: 418px;
-    height: 65px;
-    margin: 2px 0 146px 1px;
-    padding: 0 86px 0 0;  
-    font-size: 39px;
+    height: 60px;
+    font-size: 28px;
     background-color: rgba(58, 55, 55, 0.3);
-    margin-top: 0px;
 }
-
 .main-buttons {
     display: flex;
 }
@@ -58,7 +41,7 @@
   height: 3000px;
   flex-grow: 0;
   background-color: #e0d0b7;
-  margin-top: -300px;
+  margin-top: 50px;
 }
 
 .div .Rectangle-36 {
