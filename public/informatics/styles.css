@@ -5,6 +5,7 @@
     padding: 2px 16px 60px 31px;
     border-radius: 20px;
     background-color: #d9d9d9;
+    margin-top: 50px;
   }
   .examination .description {
     width: 800px;
@@ -17,7 +18,7 @@
     height: 624px;
     margin: 33px 21px 40px 0;
     font-family: sans-serif;
-    font-size: 28px;
+    font-size: 38px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -33,33 +34,44 @@
     transform: rotate(0deg);
     background-color: #000;
     margin-left: 850px;
-    margin-top: -700px;
+    margin-top: -850px;
   }
   .examination .materials {
     width: 803px;
     height: 932px;
     background: #d9d9d9;
     margin-left: 930px;
-    margin-top: -985px
+    margin-top: -933px
   }
   .examination .materials h1 {
     width: 353px;
     height: 58px;
     margin: 33px 198px 170px 278px;
     font-family: sans-serif;
-    font-size: 28px;
+    font-size: 48px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     margin-top: 50px;
-    margin-left: 210px;
+    margin-left: -10px;
     color: #000;
   }
   .examination .materials img {
-    margin-left: 80px
+    margin-left: 80px;
+    margin-top: 400px;
   }
   .examination  .img {
     transform: translateX(-150px)
+  }
+  .button {
+    width: 536px;
+    height: 99px;
+    margin: 40px 205px 10px 79px;
+    padding: 0 0 7px 9px;
+    border-radius: 20px;
+    background-color: #0187b1;
+    font-size: 42px;
+    color: white;
   }

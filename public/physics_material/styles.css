@@ -1,9 +1,9 @@
 .img1 {
-    position: absolute;
+    position: relative;
     width: 230px;
     height: 350px;
     margin-left: 70px;
-    margin-top: -380px;
+    margin-top: -700px;
 }
 
 .description2 {
@@ -12,7 +12,7 @@
     background-color: #d9d9d9;
     border-radius: 0px;
     margin-left: 850px;
-    margin-top: -1019px;
+    margin-top: -1039px;
 }
 
 .description2 .math {
@@ -30,14 +30,14 @@
     position: relative;
     transform: translateY(150px);
     margin-left: 80px;
-    margin-top: -60px;
+    margin-top: -90px;
     width: 200px;
     height: 350px; 
 }
 
 .author {
     margin-left: 400px;
-    margin-top: -210px;
+    margin-top: -190px;
 }
 
 .level {
@@ -54,7 +54,7 @@
 }
 
 .profile {
-    margin-top: 360px;
+    margin-top: 325px;
     margin-left: 80px;
     width: 200px;
     height: 350px;        
@@ -63,7 +63,7 @@
 
 .description5 {
     margin-left: 400px;
-    margin-top: -360px;
+    margin-top: -410px;
 }
 
 .description6 {
@@ -106,17 +106,15 @@ div div .profile111 {
 }
 
 div div .image1 {
-    position: absolute;
-    margin-left: -1100px;
-    margin-top: -130px;
+    margin-left: 250px;
+    margin-top: -20px;
 }
 
 div div .image2 {
-    position: absolute;
     width: 59px;
     height: 59px;
-    margin-left: -950px;
-    margin-top: -200px;
+    margin-left: 100px;
+    margin-top: -25px;
 }
 
 .rus {
@@ -130,10 +128,4 @@ div div .image2 {
     margin-left: 400px;
     margin-top: -20px;
     font-weight: normal;
-}
-
-ul {
-    font-size: 26px;
-    margin-left: 385px;
-    margin-top: -20px;
 }

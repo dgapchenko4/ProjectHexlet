@@ -1,0 +1,294 @@
+.img1 {
+    position: absolute;
+    width: 230px;
+    height: 350px;
+    margin-left: 70px;
+    margin-top: -300px;
+}
+
+.description2 {
+    width: 840px;
+    height: 365px;
+    background-color: #d9d9d9;
+    border-radius: 0px;
+    margin-left: 850px;
+    margin-top: -1019px;
+}
+
+.description2 .math {
+    transform: translateY(80px);
+    margin-left: 80px;
+}
+
+ .description2 h1 {
+    padding-left: 230px;
+    font-size: 66px;
+    margin-top: 30px;
+}
+
+.ege_ {
+    position: relative;
+    transform: translateY(150px);
+    margin-left: 80px;
+    margin-top: -110px;
+    width: 200px;
+    height: 350px; 
+}
+
+.author {
+    margin-left: 400px;
+    margin-top: -210px;
+}
+
+.level {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+.description4 {
+    margin-left: 400px;
+    font-weight: normal;
+    margin-right: 30px;
+    margin-top: -15px;
+}
+
+.profile {
+    margin-top: 360px;
+    margin-left: 80px;
+    width: 200px;
+    height: 350px;        
+}
+
+
+.description5 {
+    margin-left: 400px;
+    margin-top: -360px;
+}
+
+.description6 {
+    margin-left: 400px;
+    font-weight: normal;
+    margin-top: -15px;
+}
+
+.ul {
+    font-size: 24px;
+    margin-left: 390px;
+}
+
+.pp {
+    margin-top: 600px;
+}
+
+.o {
+    margin-top: 50px;
+    margin-left:50px;
+}
+
+.div h1 {
+    margin-top: 54px;
+}
+
+ div div .u {
+    margin-top: -20px;
+}
+
+div div .profile6 {
+  width: 59px;
+  height: 59px;
+  margin-left: 100px;
+  margin-top: -25px;
+}
+
+div div .profile111 {
+    margin-top: -10px;
+}
+
+div div .image1 {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -180px;
+}
+
+div div .image2 {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    margin-left: 350px;
+    margin-top: -180px;
+}
+
+.rus {
+    position: relative;
+    margin-left: 450px;
+    font-weight: normal;
+    margin-top: -20px;
+}
+
+.variant {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+ul {
+    font-size: 26px;
+    margin-left: 385px;
+    margin-top: -20px;
+}
+
+.english {
+    margin-top: 50px;
+}
+
+.fran {
+    margin-top: 30px;
+}
+
+.image3 {
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 200px;
+}
+
+.s {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -180px;
+}
+
+.image4 {
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -180px;
+}
+
+.chinese {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -90px;
+}
+
+.image6 {
+    position: absolute;
+    margin-left: 700px;
+}
+
+.eng_language {
+    position: relative;
+    padding-top: -3000px;
+    margin-left: 220px;
+    font-size: 48px;
+}
+
+.languageSpain {
+    position: relative;
+    margin-left: 220px;
+    font-size: 48px;
+}
+
+.div2 {
+    position: relative;
+    background-color: black;
+    width: 10px;
+    height: 1650px;
+    margin-top: -200px;
+    margin-left: 840px;
+    border-radius: 0px;
+    transform: rotate(90deg);
+}
+
+.div3 {
+    background-color: #d9d9d9;
+    width: 840px;
+    height: 1300px;
+    margin-top: -840px;
+    border-radius: 0px 15px;
+}
+
+.image281 {
+    width: 219px;
+    height: 326px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.author3 {
+    margin-left: 450px;
+    margin-top: -1130px;
+}
+
+.languageFrance {
+    font-size: 48px;
+    margin-left: 220px;
+}
+
+.materials {
+    margin-left: 450px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+.stipend {
+    margin-left: 450px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+.div4 {
+    position: absolute;
+    background-color: #d9d9d9;
+    width: 840px;
+    height: 1300px;
+    margin-left: 850px;
+    margin-top: -840px;
+    border-radius: 15px 0px;
+}
+.div5 {
+    background-color: black;
+    width: 10px;
+    border-radius: 0px;
+    height: 660px;
+    margin-left: 840px;
+}
+.chineseLanguage {
+    font-size: 48px;
+    margin-left: 250px;
+}
+.lang_chinese {
+    width: 249px;
+    height: 320px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.author4 {
+    margin-left: 450px;
+    margin-top: -325px;
+}
+.egeChina {
+    margin-left: 450px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+.image281 {
+    width: 229px;
+    height: 310px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.chinese_image {
+    width: 249px;
+    height: 310px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.author281 {
+    margin-top: -300px;
+    margin-left: 450px;
+}
+.chi_ege {
+    margin-left: 450px;
+    margin-top: -20px;
+    font-weight: normal;
+}
